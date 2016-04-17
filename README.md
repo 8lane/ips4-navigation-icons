@@ -1,0 +1,2 @@
+# ips4-navigation-icons
+Navigation Icons by IPS Themes is a tiny plugin that adds the ability to specify a different icon for each of your top-level navigation links. The plugin utilizes the Font Awesome icon library which is already built into IPS4. That means the plugin adds virtually zero overhead to your site.
