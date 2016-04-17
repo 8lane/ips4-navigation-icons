@@ -1,0 +1,19 @@
+Navigation Icons - IPS4 Plugin - Change log - ipsthemes.com
+--------------------------------------------------------------------------------
+
+
+17th April 2016 [Update] - v1.0.2
+--------------------------------------------------------------------------------
+	- Fix icon limit issue
+	- Updated font awesome icon selection to include new icons
+	- Open sourced!
+
+
+20th January 2016 [Update] - v1.0.1
+--------------------------------------------------------------------------------
+	- Compatible with IPS 4.1
+
+
+21st July 2015 [Release] - v1.0.0
+--------------------------------------------------------------------------------
+	- Released to IPS Marketplace & IPS Themes
